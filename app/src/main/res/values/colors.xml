@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e0e0e0</color>
+    <color name="colorPrimaryDark">#C3C3C3</color>
+    <color name="colorAccent">#fafafa</color>
+
+    <color name="ux_turquoise_light">#1abc9c</color>
+    <color name="ux_vert_light">#2ecc71</color>
+    <color name="ux_bleu_light">#3498db</color>
+    <color name="ux_violet_light">#9b59b6</color>
+    <color name="ux_noir_light">#34495e</color>
+    <color name="ux_turquoise">#16a085</color>
+    <color name="ux_vert">#27ae60</color>
+    <color name="ux_bleu">#2980b9</color>
+    <color name="ux_violet">#8e44ad</color>
+    <color name="ux_noir">#2c3e50</color>
+    <color name="ux_jaune_light">#f1c40f</color>
+    <color name="ux_orange_light">#e67e22</color>
+    <color name="ux_rouge_light">#e74c3c</color>
+    <color name="ux_blanc">#ecf0f1</color>
+    <color name="ux_concrete">#95a5a6</color>
+    <color name="ux_jaune">#f39c12</color>
+    <color name="ux_orange">#d35400</color>
+    <color name="ux_rouge">#c0392b</color>
+    <color name="ux_silver">#bdc3c7</color>
+    <color name="ux_asbestos">#7f8c8d</color>
+
+    <array name="listeNomCouleursDisponible">
+        <item>VERT</item>
+        <item>ROUGE</item>
+        <item>BLEU</item>
+        <item>JAUNE</item>
+        <item>VIOLET</item>
+        <item>NOIR</item>
+        <item>ORANGE</item>
+        <item>TURQUOISE</item>
+        <item>ARGENT</item>
+    </array>
+
+    <array name="listeCouleursDisponible">
+        <item>@color/ux_vert</item>
+        <item>@color/ux_rouge</item>
+        <item>@color/ux_bleu</item>
+        <item>@color/ux_jaune</item>
+        <item>@color/ux_violet</item>
+        <item>@color/ux_noir</item>
+        <item>@color/ux_orange</item>
+        <item>@color/ux_turquoise</item>
+        <item>@color/ux_asbestos</item>
+    </array>
+
+    <array name="listeCouleursDisponibleComplementaire">
+    <item>@color/ux_vert_light</item>
+    <item>@color/ux_rouge_light</item>
+    <item>@color/ux_bleu_light</item>
+    <item>@color/ux_jaune_light</item>
+    <item>@color/ux_violet_light</item>
+    <item>@color/ux_noir_light</item>
+    <item>@color/ux_orange_light</item>
+    <item>@color/ux_turquoise_light</item>
+    <item>@color/ux_silver</item>
+</array>
+
+
+
+</resources>
